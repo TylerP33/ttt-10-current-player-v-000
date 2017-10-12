@@ -16,3 +16,4 @@ music_library.each do |artist_array|
     end
   end
 end
+end
